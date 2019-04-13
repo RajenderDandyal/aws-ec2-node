@@ -1,4 +1,8 @@
 # aws-ec2-node
+For ubuntu AMI : these 2 tutes
+https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171
+https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1
+For Amazon Linux 2 AMI (HVM), SSD Volume Type : below : 
 https://medium.com/@nishankjaintdk/setting-up-a-node-js-app-on-a-linux-ami-on-an-aws-ec2-instance-with-nginx-59cbc1bcc68c
 instead of remembring all that .. lets make a git repo for all
 Setting up a Node.js app on a Linux AMI on an AWS EC2 instance with Nginx
