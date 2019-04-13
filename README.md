@@ -1,4 +1,5 @@
 # aws-ec2-node
+https://medium.com/@nishankjaintdk/setting-up-a-node-js-app-on-a-linux-ami-on-an-aws-ec2-instance-with-nginx-59cbc1bcc68c
 instead of remembring all that .. lets make a git repo for all
 Setting up a Node.js app on a Linux AMI on an AWS EC2 instance with Nginx
 Go to the profile of Nishank Jain
